@@ -143,9 +143,8 @@ header.sticky-header .nav-menu > ul > li  {
 }
 
 .d9 {
-    color: #d94934;
+    color: #d94934 !important;
 }
-
 
 .btn-small,
 .btn-medium,

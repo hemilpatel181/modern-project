@@ -1,0 +1,150 @@
+@media (max-width: 1299px) {
+    .pattern-1.line-pattern, .pattern-2.line-pattern {
+        max-width: 400px;
+    }
+}
+
+@media (max-width: 1299px) {
+    .pattern-1, .pattern-2 {
+        max-width: 165px;
+    }
+}
+
+@media (max-width: 767px) {
+    .heading-part {
+        padding-bottom: 40px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .heading-part {
+        padding-bottom: 50px;
+    }
+}
+
+@media (max-width: 1199px) {
+    .feature-box-main {
+        padding: 35px;
+        min-height: 315px;
+    }
+}
+
+@media (max-width: 1199px) {
+    .feature-box-main .feature-content {
+        padding-top: 30px;
+    }
+}
+
+@media (max-width: 1199px) {
+    .feature-box-main .feature-title {
+        font-size: 24px;
+    }
+}
+
+@media (max-width: 767px) {
+    h1 {
+        font-size: 40px !important;
+        line-height: 50px !important;
+    }
+}
+@media (max-width: 1024px) {
+    h1 {
+        font-size: 64px ;
+        line-height: 76px ;
+    }
+}
+@media (max-width: 1299px) {
+    h1 {
+        font-size: 86px;
+        line-height: 94px;
+    }
+}
+
+@media (max-width: 576px){
+    .donut-graph {
+        margin-bottom: 40px;
+    }
+} 
+
+@media (max-width: 767px) {
+    h2 {
+        font-size: 36px !important;
+        line-height: 46px !important;
+    }
+}
+
+@media (max-width: 1024px) {
+    h2 {
+        font-size: 50px;
+        line-height: 62px;
+    }
+}
+@media (max-width: 1299px) {
+    h2 {
+        font-size: 64px;
+        line-height: 75px;
+    }
+}
+
+@media (max-width: 767px) {
+    .newsletter-box .newsletter-title h3 {
+        font-size: 26px;
+        line-height: 36px;
+    }
+}
+@media (max-width: 767px) {
+    h3 {
+        font-size: 34px;
+        line-height: 46px;
+    }
+}
+@media (max-width: 1024px) {
+    h3 {
+        font-size: 42px;
+        line-height: 54px;
+    }
+}
+
+@media (max-width: 767px) {
+    .form-control {
+        font-size: 16px;
+        padding: 15px 20px;
+        
+    }
+}
+
+@media (max-width: 767px) {
+    .newsletter-box .newsletter-form form {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 991px) {
+    .footer-content .footer-link {
+        padding-top: 40px;
+    }
+}
+
+@media (max-width: 991px) {
+    .copyright .copyright-text {
+        text-align: center;
+        padding-bottom: 12px;
+    }
+}
+
+@media (max-width: 991px) {
+    .copyright .copyright-link {
+        text-align: center ;
+    }
+}
+
+@media (max-width: 767px) {
+    .newsletter-box .newsletter-form form .form-btn .btn-large {
+        margin-top: 30px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 33px;
+        padding-right: 33px;
+        min-height: unset;
+    }
+}
